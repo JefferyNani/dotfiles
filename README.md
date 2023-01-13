@@ -45,3 +45,13 @@ My dwm config is heavily based on the Tokyo Night color scheme which I love ez
 | ![#24283b](https://place-hold.it/15/24283b/24283b?text=+) `#24283b` | Editor Background (Storm) |
 | ![#1a1b26](https://place-hold.it/15/1a1b26/1a1b26?text=+) `#1a1b26` | Editor Background (Night) |
 
+# Installation
+If u wanna use em the lazy way , (JUST USE THE SCRIPT INSTEAD!!) 
+1) copy em to /opt/ 
+2) then cd into each one of em and run "sudo make clean install".
+3) Swag
+
+This is now done by the install_dotfiles.sh script in this repo (requires git installed)
+
+however the install_dependencies.sh will install dependencies (or atleast try to)
+if u have a sensible aur helper it would work flawlessly
