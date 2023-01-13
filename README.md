@@ -58,7 +58,7 @@ if u have a sensible aur helper it would work flawlessly
 
 # Libxft-bgra
 --------------------------------------------
-ig libxft-bgra wont work when you download it from aur idk so this is how you download the pached version
+ig libxft-bgra wont work when you download it from AUR idk so this is how you download the pached version
 ```bash
 git clone https://github.com/uditkarode/libxft-bgra
 cd libxft-bgra
