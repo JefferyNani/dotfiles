@@ -1,0 +1,2 @@
+# dotfiles
+[DWM] [Tokyo Night]
