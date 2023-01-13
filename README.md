@@ -55,3 +55,13 @@ This is now done by the install_dotfiles.sh script in this repo (requires git in
 
 however the install_dependencies.sh will install dependencies (or atleast try to)
 if u have a sensible aur helper it would work flawlessly
+
+# Libxft-bgra
+--------------------------------------------
+ig libxft-bgra wont work when you download it from aur idk so this is how you download the pached version
+```bash
+git clone https://github.com/uditkarode/libxft-bgra
+cd libxft-bgra
+sh autogen.sh --sysconfdir=/etc --prefix=/usr --mandir=/usr/share/man
+sudo make install
+```
