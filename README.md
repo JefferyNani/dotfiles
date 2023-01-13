@@ -8,6 +8,7 @@ My dwm config is heavily based on the Tokyo Night color scheme which I love ez
 
 ![my dwm build showcase](https://media.discordapp.net/attachments/867747440748527680/1063478398657253486/image.png?width=863&height=486)
 
+--------------------------------------------
 # Dependencies
 
 1) libxft-bgra-git (from aur)
@@ -21,7 +22,7 @@ My dwm config is heavily based on the Tokyo Night color scheme which I love ez
 3) maim (from arch community repo)
 4) flameshot (from community repo)
 5) pulsemixer (from community repo)
-
+--------------------------------------------
 ## Color Palette
 #### Tokyo Night and Tokyo Night Storm
 | Color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Use |
@@ -44,6 +45,8 @@ My dwm config is heavily based on the Tokyo Night color scheme which I love ez
 | ![#414868](https://place-hold.it/15/414868/414868?text=+) `#414868` | Terminal Black |
 | ![#24283b](https://place-hold.it/15/24283b/24283b?text=+) `#24283b` | Editor Background (Storm) |
 | ![#1a1b26](https://place-hold.it/15/1a1b26/1a1b26?text=+) `#1a1b26` | Editor Background (Night) |
+
+--------------------------------------------
 
 # Installation
 If u wanna use em the lazy way , (JUST USE THE SCRIPT INSTEAD!!) 
