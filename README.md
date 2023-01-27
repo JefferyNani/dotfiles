@@ -6,7 +6,7 @@ This dotfiles contains my dwm , dwmblock , dmenu and st configs.
 My dwm config is heavily based on the Tokyo Night color scheme which I love ez 
 
 
-![my dwm build showcase](https://media.discordapp.net/attachments/867747440748527680/1063478398657253486/image.png?width=863&height=486)
+![my dwm build showcase](https://user-images.githubusercontent.com/95682339/215115111-44414669-99cc-43e8-9ea3-1a37edb303dd.png)
 
 --------------------------------------------
 # Dependencies
